@@ -1,11 +1,13 @@
 # public-showcase
 Most of my projects are private due to the use of local and sensitive data, but here I’ll share a bit more about what I’ve developed.
 
-My Data Science and Financial Projects
+My Data Science and Financial Projects\n
 Over the past few years, I have developed several mini-projects, both for partners of the Ibmec Technology League (IBTECH) — which I co-founded — and for personal development.
 
 Highlights:
+
 MRV Project:
+
 For MRV, a leading Brazilian real estate company, I worked on identifying locations with the highest opportunity cost of investment in the medium and long term.
 We developed an Attractiveness Index for the Metropolitan Region of Belo Horizonte, combining census data (since 2000), environmental, social, and economic indicators. Using PCA (Principal Component Analysis), we built a regional ranking.
 The final product was delivered to the company, and the work is currently in the process of publication.
