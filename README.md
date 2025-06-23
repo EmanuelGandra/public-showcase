@@ -60,4 +60,4 @@ I have been working for **7 months** as an **Intern at Araujo Fontes (AF Invest)
 ## Purpose of this Repository
 
 Most of my projects are private due to the use of sensitive data.  
-However, I will upload (by **16/06 — next Monday**) examples of my work, models, and tools — always using **public or simulated data** — that reflect the kind of solutions I’ve developed in real scenarios.
+However, I will upload (by **26/06**) examples of my work, models, and tools — always using **public or simulated data** — that reflect the kind of solutions I’ve developed in real scenarios.
